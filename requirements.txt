@@ -1,3 +1,5 @@
-Django==5.0.3
+Django==5.1.6
 gunicorn
 whitenoise
+requests
+
